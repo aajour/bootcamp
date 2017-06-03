@@ -1,8 +1,4 @@
-.fade
+.color:hover
 {
-        opacity:0.5;
-}
-.fade:hover
-{
-        opacity:1;
+        background:#53a7ea;
 }
